@@ -1,0 +1,4 @@
+baseURL = "https://gringolito.github.io/futech"
+languageCode = "en-us"
+title = "FUTech"
+theme = "hugo-story"
