@@ -14,6 +14,6 @@ We serve our clients on-site in Porto Alegre - RS area, or remotely anywhere wit
 
 ## Contact
 
-:email: filipeutzig at gmail dot com
+![](/images/email.png) filipeutzig at gmail dot com
 
-:telephone_receiver: +55 (51) 99977-4214
+![](/images/phone.png) +55 (51) 99977-4214
