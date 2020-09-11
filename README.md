@@ -1,4 +1,4 @@
-# FUTech
+# FU Tech
 
 We provide worldwide IT services, such as support, training, development, and maintenance.
 
